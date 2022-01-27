@@ -48,7 +48,7 @@ label: {
     default: ''
 },
 price: {
-    type: String,
+    type: Currency,
     required: true,
     min: 0
 },
